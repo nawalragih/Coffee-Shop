@@ -1,1 +1,2 @@
 # Coffee-Shop
+Python-based system for ordering coffee, tracking sales, and generating reports within a simulated coffee shop environment. Users can order coffee in different sizes, with the system calculating costs and updating sales data. It includes features for tracking total coffee sales and generating revenue reports. The project demonstrates fundamental Python programming concepts and practical application for business management solutions.
